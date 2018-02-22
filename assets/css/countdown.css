@@ -1,5 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
 
+#timer {
+  display: inline-block;
+  line-height: 1;
+  padding: 20px;
+  font-size: 40px;
+}
+
 #days {
   font-size: 200px;
   color: #db4844;
