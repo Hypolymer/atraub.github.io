@@ -2,12 +2,12 @@
 
 #countdown {
   text-align: center;
-  font-family: 'Annie Use Your Telescope', cursive;
   color: white;
   background: #222;
 }
 
 #timer > div {
+  font-family: 'Annie Use Your Telescope', cursive;
   display: inline-block;
   line-height: 1;
   padding: 20px;
