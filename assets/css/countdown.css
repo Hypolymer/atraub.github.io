@@ -29,17 +29,7 @@ div #timer {
   line-height: 1;
   padding: 20px;
   font-size: 40px;
-}
-
-span {
-  display: block;
-  font-size: 20px;
-  color: white;
-}
-
-body {
   text-align: center;
   font-family: 'Covered By Your Grace', cursive;
   color: white;
-  background: #222;
 }
