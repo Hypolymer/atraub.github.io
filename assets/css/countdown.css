@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
 #timer {
   display: inline-block;
   line-height: 1;
@@ -20,4 +22,24 @@
 #seconds {
   font-size: 50px;
   color: #abcd58;
+}
+
+div #timer {
+  display: inline-block;
+  line-height: 1;
+  padding: 20px;
+  font-size: 40px;
+}
+
+span {
+  display: block;
+  font-size: 20px;
+  color: white;
+}
+
+body {
+  text-align: center;
+  font-family: 'Covered By Your Grace', cursive;
+  color: white;
+  background: #222;
 }
